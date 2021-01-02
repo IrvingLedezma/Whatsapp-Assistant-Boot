@@ -11,4 +11,4 @@ Follow the next steps
 4) "You are in the time Loop  ..." is debug print to alert that you can statrt testing your assistance : 
     You should set integer variable "seconds" to time which the loop will be runing 
 5) Enjoying you assistance!
-6)You can do more things, but here, the problem is find the elements in web browser  
+6) You can do more things, but here, the problem is find the elements in web browser  
