@@ -7,8 +7,8 @@ Follow the next steps
 2) Compile code in Pyhton3 
 3) The code open web browser and you have to check your QR code to access in your account : 
    The code has a #Time stress to access in your account this is to don't get errors, 
-   obviously, It can be better and I open to opinions.
+   obviously, It can be better and I'am open to opinions.
 4) "You are in the time Loop  ..." is debug print to alert that you can statrt testing your assistance : 
     You should set integer variable "seconds" to time which the loop will be runing 
-5) Enjoying you assistance!
+5) Enjoying your assistance!
 6) You can do more things, but here, the problem is find the elements in web browser  
